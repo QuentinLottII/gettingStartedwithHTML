@@ -1,0 +1,26 @@
+body {
+    background-color: gray;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+h2 {
+    color: white;
+}
+
+p{
+    color: azure;
+    text-align: center;
+    text-decoration: underline;
+}
+
+ul{
+    color: coral;
+}
+
+li {
+    color: crimson;
+}
