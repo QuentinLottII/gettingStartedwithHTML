@@ -13,7 +13,7 @@ h2 {
 
 p {
     text-align: center;
-    color: white;
+    color: orange;
     text-decoration: line-through;
     line-height: 2;
     text-indent: 2;
@@ -25,7 +25,7 @@ ul {
 }
 
 li {
-    color: snow;
+    color: cadetblue;
 }
 
 table {
@@ -34,4 +34,119 @@ table {
 
 form {
     color: crimson;
+}
+
+div {
+    font-style: italic;
+    background-color: white;
+}
+
+#blockOne{
+    background-color:indigo;
+}
+
+.blocks{
+    background-color: lightcoral;
+}
+
+#blockFour{
+    background-color: darkgreen;
+}
+
+.blockThree {
+    background-color: darkslategray;
+}
+
+#static{
+background-color: violet;
+border: 5px dashed black;
+font-size: 25px;
+font-style:italic;
+color: white;
+position: static;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-right: 30px;
+padding-left: 30px;
+margin-top: 250px;
+margin-bottom: 250px;
+margin-left: 250px;
+margin-right: 250px;
+height: 300px;
+width: 300px;
+}
+
+#relative{
+background-color:blanchedalmond;
+color: aqua;
+font-size: 15px;
+font-style: bold;
+border: 5px solid white;
+position: relative;
+padding-top:10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-left: 100px;
+margin-right:100px;
+height: 250px;
+width: 100px;
+}
+
+#fixed{
+background-color: aquamarine;
+font-size: 12px;
+font-style: inherit;
+color: black;
+border: 10px solid black;
+position: fixed;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+padding-right: 20px;
+margin-top: 10px;
+margin-bottom: 10px;
+margin-left: 10px;
+margin-right: 10px;
+height: 250px;
+width: 250px;
+}
+
+#absolute{
+background-color: goldenrod;
+font-size: 13px;
+font-style: normal;
+position: absolute;
+border: 10px dashed black;
+color: red;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
+margin-right: 20px;
+height: 250px;
+width: 250px;
+}
+
+#sticky{
+background-color: olivedrab;
+position: sticky;
+font-size: 12px;
+font-style: italic;
+border: 12px solid black;
+padding-top: 12px;
+padding-bottom: 12px;
+padding-left: 12px;
+padding-right: 12px;
+margin-top: 15px;
+margin-bottom:15px;
+margin-left: 15px;
+margin-right:15px;
+height: 260px;
+width:260px;
 }
