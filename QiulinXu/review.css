@@ -1,8 +1,8 @@
 body{
     margin: 10px;
     padding: 25px;
-    background-image: url("https://liquipedia.net/commons/images/9/9d/Hangzhousparkguxue.jpg");
 }
+
 p{
     border: 4px dotted #FFFFFF;
     border: 10px solid #5887CF;
@@ -13,8 +13,11 @@ p{
 
 h1{
     color: #5887CF;
+}
+
+#relative{
     margin-left: 20px;
-    vertical-align: center;
+    text-align: center;
     position: relative; top: 100px; right: 100px;
 }
 
