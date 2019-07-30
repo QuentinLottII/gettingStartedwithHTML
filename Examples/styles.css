@@ -13,6 +13,7 @@ h2 {
 
 p {
     text-align: center;
+    font-family: 'Roboto', sans-serif;
     color: orange;
     text-decoration: line-through;
     line-height: 2;
@@ -22,6 +23,7 @@ p {
 
 ul {
     color: azure;
+    font-family: 'Dosis', sans-serif;
 }
 
 li {
