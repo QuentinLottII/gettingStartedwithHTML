@@ -152,3 +152,20 @@ margin-right:15px;
 height: 260px;
 width:260px;
 }
+
+a:hover {
+  color: #FF00FF;
+  text-decoration: underline;
+}
+
+a:link{
+    color: #cd7f32;
+}
+
+a:visited{
+color: gold;
+}
+
+a:active{
+color: #e5e4e2;
+}
